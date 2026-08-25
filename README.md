@@ -40,6 +40,11 @@
 ---
 
 ## 📊 GitHub Stats
+<h2 align="center">
+  <font color="#58A6FF">📊</font> 
+  <font color="#7EE787">GitHub</font> 
+  <font color="#FFA657">Stats</font>
+</h2>
 
 <table border="0" align="center">
   <tr border="0">
