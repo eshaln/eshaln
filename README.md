@@ -80,7 +80,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=eshaln&theme=github-dark&hide_border=true&area=true" width="100%" alt="Eshal's Activity Graph" />
+  <img src="https://raw.githubusercontent.com/eshaln/eshaln/main/activity-graph.svg" width="100%" alt="Eshal's Activity Graph" />
 </p>
 
 ---
