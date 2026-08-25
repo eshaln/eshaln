@@ -18,7 +18,7 @@
 * 🎮 Aspiring Game Developer
 * 🌐 Aspiring Web Developer
 * 💻 Currently learning and building projects with **C++, Java, Python, HTML, CSS & JavaScript**
-* 🚀 Interested in software development, web development and game development
+* 🚀 Interested in software development, web development, and game development
 * 📫 Reach me at **[eshalnaeem2008@gmail.com](mailto:eshalnaeem2008@gmail.com)**
 
 ---
@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true" alt="Eshal's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshaln&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -60,22 +60,15 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=github-compact&hide_border=true" alt="Eshal's GitHub Contribution Graph"/>
+  <img src="https://snake-autogenerate.vercel.app/api/github-snake?username=eshaln&theme=dark" alt="Eshal's Contribution Snake Graph"/>
 </p>
+
 ---
 
 ## ⭐ GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📌 Repository Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Repository Statistics"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=onedark&column=4&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -95,4 +88,3 @@
 <p align="center">
   <i>✨ Learning, building, and growing one project at a time.</i>
 </p>
-
