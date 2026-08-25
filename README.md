@@ -54,9 +54,8 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://snake-autogenerate.vercel.app/api/github-snake?username=eshaln&theme=dark&color_snake=%230e75b6&v=1" width="100%" alt="Eshal's Contribution Heatmap"/>
+  <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
