@@ -70,6 +70,20 @@
 </p>
 ---
 
+<h2 align="center">
+  <font color="#58A6FF">📈</font> 
+  <font color="#7EE787">Contribution</font> 
+  <font color="#FFA657">Graph</font>
+</h2>
+
+
+<p align="center">
+  <a href="https://github.com/ashutosh00712/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react-dark&hide_border=true" alt="Eshal's Activity Graph" />
+  </a>
+</p>
+
+
 ## 🤝 Connect With Me
 
 <p align="center">
