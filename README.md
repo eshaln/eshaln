@@ -57,6 +57,9 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
+</p>
 ---
 
 ## 📈 Contribution Activity
