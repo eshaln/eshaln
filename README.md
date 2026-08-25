@@ -41,13 +41,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages"/>
-</p>
+<table border="0" align="center">
+  <tr border="0">
+    <td border="0" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats" height="165" />
+    </td>
+    <td border="0" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages" height="165" />
+    </td>
+  </tr>
+</table>
 
 ---
 
