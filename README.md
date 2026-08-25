@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/eshaln">
-    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=flat&v=1" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -40,11 +40,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true&v=1" alt="Eshal's GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true&v=1" alt="Eshal's Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages"/>
 </p>
 
 ---
@@ -52,21 +52,15 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshaln&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub Contribution Streak"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://snake-autogenerate.vercel.app/api/github-snake?username=eshaln&theme=dark&v=1" alt="Eshal's Contribution Snake Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## ⭐ GitHub Achievements
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=onedark&column=4&margin-w=15&v=1" alt="GitHub Trophies"/>
+  <img src="https://ghchart.rshah.org/0e75b6/eshaln" alt="Eshal's GitHub Contribution Chart" />
 </p>
 
 ---
