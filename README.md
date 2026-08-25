@@ -60,7 +60,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react-dark&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-nine.vercel.app/graph?username=eshaln&theme=react-dark&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" alt="Eshal's Contribution Graph" />
 </p>
 
 ---
