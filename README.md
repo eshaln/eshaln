@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/eshaln">
-    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0366d6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -43,27 +43,30 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/eshaln">
+    <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="Eshal's GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&title_color=007acc&icon_color=007acc&text_color=9ece6a&bg_color=0d1117&hide_border=true&count_private=true" height="175" alt="Eshal's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=tokyonight&title_color=007acc&text_color=9ece6a&bg_color=0d1117&hide_border=true" height="175" alt="Eshal's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=dark&bg_color=0d1117&title_color=007acc&icon_color=007acc&text_color=ffffff&hide_border=true&count_private=true" width="400" alt="Eshal's GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=dark&bg_color=0d1117&title_color=007acc&text_color=ffffff&hide_border=true" width="400" alt="Eshal's Top Languages"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Activity & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=tokyonight&background=0D1117&ring=007ACC&fire=007ACC&currStreakNum=FFFFFF&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react-dark&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&hide_border=true" width="100%" alt="Eshal's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph" />
 </p>
 
 ---
