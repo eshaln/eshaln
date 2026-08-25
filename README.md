@@ -68,20 +68,24 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart" />
 </p>
+
+---
 ---
 
-<h2 align="center">
-  <font color="#58A6FF">📈</font> 
-  <font color="#7EE787">Contribution</font> 
-  <font color="#FFA657">Graph</font>
-</h2>
 
+<h2 align="center">
+  <font color="#58A6FF">🚀</font> 
+  <font color="#7EE787">GitHub</font> 
+  <font color="#FFA657">Analytics</font>
+</h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00712/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react-dark&hide_border=true" alt="Eshal's Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Eshal's Activity Graph" />
   </a>
 </p>
+
+---
 
 
 ## 🤝 Connect With Me
