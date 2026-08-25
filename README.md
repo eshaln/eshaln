@@ -1,88 +1,19 @@
-<h1 align="center">Hi 👋, I'm Eshal Naeem</h1>
-
-<h3 align="center">
-  Software Engineering Student | Aspiring Game & Web Developer
-</h3>
-
-<p align="center">
-  <a href="https://github.com/eshaln">
-    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
----
-
-## 🌱 About Me
-
-* 🎓 Software Engineering Student
-* 🎮 Aspiring Game Developer
-* 🌐 Aspiring Web Developer
-* 💻 Currently learning and building projects with **C++, Java, Python, HTML, CSS & JavaScript**
-* 🚀 Interested in software development, web development, and game development
-* 📫 Reach me at **[eshalnaeem2008@gmail.com](mailto:eshalnaeem2008@gmail.com)**
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/eshaln">
-    <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="Eshal's GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=dark&bg_color=0d1117&title_color=007acc&icon_color=007acc&text_color=ffffff&hide_border=true&count_private=true" width="400" alt="Eshal's GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=dark&bg_color=0d1117&title_color=007acc&text_color=ffffff&hide_border=true" width="400" alt="Eshal's Top Languages"/>
-</p>
-
----
-
-## 📈 Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eshal-naeem-raja-a743583a8">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/_.eshaln._">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>✨ Learning, building, and growing one project at a time.</i>
-</p>
+<h1 align="center">Hi there, I'm Eshal Naeem 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Aspiring+Game+Developer+%F0%9F%8E%AE;Aspiring+Web+Developer+%F0%9F%8C%90;Learning+C%2B%2B%2C+Java%2C+Python%2C+JS;Building+one+project+at+a+time+%E2%9C%A8&font=Fira+Code&center=true&width=520&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/eshaln?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" width="100%"/> </p>
+🌱 About Me
+🎓 Software Engineering Student
+🎮 Aspiring Game Developer
+🌐 Aspiring Web Developer
+💻 Currently learning and building projects with C++, Java, Python, HTML, CSS & JavaScript
+🚀 Interested in software development, web development, and game development
+📫 Reach me at eshalnaeem2008@gmail.com
+<br>
+🛠️ Languages & Tools
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/> </p> <br>
+🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/eshaln"> <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=algolia&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Eshal's GitHub Trophies" /> </a> </p> <br>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="Eshal's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide_border=true" width="35%" alt="Eshal's Top Languages"/> </p> <br>
+📈 Activity & Contributions
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph" /> </p> <!-- Optional: an animated contribution "snake" that eats your commit squares. Requires a one-time GitHub Actions setup (see notes below) — this line will start working once that Action runs at least once. --> <p align="center"> <img src="https://raw.githubusercontent.com/eshaln/eshaln/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/> </p> <br>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/eshal-naeem-raja-a743583a8" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/_.eshaln._" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:eshalnaeem2008@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p> <p align="center"> <i>✨ Learning, building, and growing — one project at a time.</i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/> </p>
