@@ -51,8 +51,11 @@
 
 ---
 
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph"/> </p> <p align="center"> <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart"/> </p> <br>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react-dark&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true&v=1" width="100%" alt="Eshal's Activity Graph"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
