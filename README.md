@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Eshal Naeem - Software Engineering Student, Game & Web Dev"/>
+  <img src="./assets/banner.svg" width="100%" alt="Eshal Naeem Banner"/>
 </p>
 
 <p align="center">
