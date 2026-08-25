@@ -70,20 +70,7 @@
 </p>
 
 ---
----
 
-
-<h2 align="center">
-  <font color="#58A6FF">🚀</font> 
-  <font color="#7EE787">GitHub</font> 
-  <font color="#FFA657">Analytics</font>
-</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eshaln/eshaln/main/activity-graph.svg" width="100%" alt="Eshal's Activity Graph" />
-</p>
-
----
 
 
 ## 🤝 Connect With Me
