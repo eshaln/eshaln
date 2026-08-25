@@ -80,9 +80,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00712/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" alt="Eshal's Activity Graph" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Eshal's GitHub Streak & Analytics" />
 </p>
 
 ---
