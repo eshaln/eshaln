@@ -52,10 +52,8 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=github-dark-blue&hide_border=true&v=1" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=eshaln&theme=github-dark-blue&hide_border=true&v=2" alt="GitHub Contribution Streak"/>
 </p>
-
----
 
 ## 📈 Contribution Graph
 
