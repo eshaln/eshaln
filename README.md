@@ -9,8 +9,16 @@
 <br>
 🛠️ Languages & Tools
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/> </p> <br>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff&hide_border=true&count_private=true&rank_icon=github" width="49%" alt="Eshal's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=0e75b6&text_color=ffffff&hide_border=true" width="35%" alt="Eshal's Top Languages"/> </p> <br>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages"/>
+</p>
+
 📈 Contribution Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph"/> </p> <p align="center"> <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart"/> </p> <br>
 🤝 Connect With Me
