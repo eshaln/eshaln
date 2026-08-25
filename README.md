@@ -1,19 +1,96 @@
-
-
 <h1 align="center">Hi 👋, I'm Eshal Naeem</h1>
-<h3 align="center">Software Engineering Student | Aspiring Game & Web Developer</h3>
 
-- 📫 How to reach me **eshalnaeem2008@gmail.com**
+<h3 align="center">
+  Software Engineering Student | Aspiring Game & Web Developer
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/eshal-naeem-raja-a743583a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/eshal-naeem-raja-a743583a8" height="30" width="40" /></a>
-<a href="https://instagram.com/_.eshaln._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.eshaln._" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/eshaln">
+    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaln&show_icons=true&locale=en&layout=compact" alt="eshaln" /></p>
+## 🌱 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&locale=en" alt="eshaln" /></p>
+* 🎓 Software Engineering Student
+* 🎮 Aspiring Game Developer
+* 🌐 Aspiring Web Developer
+* 💻 Currently learning and building projects with **C++, Java, Python, HTML, CSS & JavaScript**
+* 🚀 Interested in software development, web development and game development
+* 📫 Reach me at **[eshalnaeem2008@gmail.com](mailto:eshalnaeem2008@gmail.com)**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaln&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eshaln&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
+---
+
+## ⭐ GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eshaln&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📌 Repository Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Repository Statistics"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eshal-naeem-raja-a743583a8">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/_.eshaln._">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Learning, building, and growing one project at a time.</i>
+</p>
+
