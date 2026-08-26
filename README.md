@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/github/followers/eshaln?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 </p>
 
+
 ---
 
 ## 🌱 About Me
@@ -40,20 +41,37 @@
 ---
 
 ## 📊 GitHub Stats
+<h2 align="center">
+  <font color="#58A6FF">📊</font> 
+  <font color="#7EE787">GitHub</font> 
+  <font color="#FFA657">Stats</font>
+</h2>
+
+<table border="0" align="center">
+  <tr border="0">
+    <td border="0" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats" height="165" />
+    </td>
+    <td border="0" align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages" height="165" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
 </p>
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages"/>
+  <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart" />
 </p>
 
 ---
 
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Eshal's Contribution Graph"/> </p> <p align="center"> <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart"/> </p> <br>
----
+
 
 ## 🤝 Connect With Me
 
