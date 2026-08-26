@@ -40,6 +40,17 @@
 
 ---
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/eshaln/Tech-Resource-Locator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaln&repo=Tech-Resource-Locator&theme=tokyonight&show_owner=false&hide_border=true" alt="Tech Resource Locator Card" />
+  </a>
+  <a href="https://github.com/eshaln/Eshals-Bakistry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaln&repo=Eshals-Bakistry&theme=tokyonight&show_owner=false&hide_border=true" alt="Eshals Bakistry Card" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 <h2 align="center">
   <font color="#58A6FF">📊</font> 
