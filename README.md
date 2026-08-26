@@ -66,9 +66,8 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eshaln/eshaln/output/pacman-contribution-graph.svg" width="100%" alt="Eshal's Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/eshaln/eshaln/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Graph" />
 </p>
-
 ---
 
 
