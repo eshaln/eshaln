@@ -66,8 +66,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react&bg_color=0d1117&color=58a6ff&line=38d430&point=ffffff&hide_border=true" width="100%" alt="Contribution Line Graph" />
 </p>
 
 ---
