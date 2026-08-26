@@ -40,38 +40,25 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/eshaln/Tech-Resource-Locator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaln&repo=Tech-Resource-Locator&theme=tokyonight&show_owner=false&hide_border=true" alt="Tech Resource Locator Card" />
-  </a>
-  <a href="https://github.com/eshaln/Eshals-Bakistry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eshaln&repo=Eshals-Bakistry&theme=tokyonight&show_owner=false&hide_border=true" alt="Eshals Bakistry Card" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
+ 📊 GitHub Stats 
 <h2 align="center">
   <font color="#58A6FF">📊</font> 
-  <font color="#7EE787">GitHub</font> 
-  <font color="#FFA657">Stats</font>
+  <font color="#58A6FF">GitHub</font> 
+  <font color="#388BFD">Stats</font>
 </h2>
 
 <table border="0" align="center">
   <tr border="0">
     <td border="0" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Eshal's GitHub Stats" height="165" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Eshal's GitHub Stats" height="165" />
     </td>
     <td border="0" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=github_dark&hide_border=true" alt="Eshal's Top Languages" height="165" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Eshal's Top Languages" height="165" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
-</p>
 ---
 
 ## 📈 Contribution Activity
@@ -105,4 +92,8 @@
 
 <p align="center">
   <sub>Thanks for stopping by — feel free to explore my repos ⭐</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
 </p>
