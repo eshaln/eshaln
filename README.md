@@ -66,7 +66,8 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Calendar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshaln&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
 </p>
 
 ---
