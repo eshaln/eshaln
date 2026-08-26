@@ -66,7 +66,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Eshal's 3D Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Calendar" />
 </p>
 
 ---
