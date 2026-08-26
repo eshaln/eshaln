@@ -20,14 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
-          # Blue & Black Theme Customization
-          color_background: '#0d1117' # Deep black-blue background
-          color_empty: '#161b22'      # Dark tile for zero contributions
-          color_dots: '#1f6feb'       # Blue dots/food
-          color_ghost_1: '#58a6ff'    # Light blue ghost
-          color_ghost_2: '#388bfd'    # Mid-blue ghost
-          color_ghost_3: '#1f6feb'    # Cobalt blue ghost
-          color_ghost_4: '#0d419d'    # Deep blue ghost
+          gameTheme: 'github-dark'
 
       - name: push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
