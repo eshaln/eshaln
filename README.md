@@ -66,7 +66,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshaln&theme=react&bg_color=0d1117&color=58a6ff&line=38d430&point=ffffff&hide_border=true" width="100%" alt="Contribution Line Graph" />
 </p>
 
 ---
