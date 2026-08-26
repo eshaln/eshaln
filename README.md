@@ -66,7 +66,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/eshaln" width="100%" alt="Eshal's Contribution Chart" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Eshal's 3D Contribution Calendar" />
 </p>
 
 ---
