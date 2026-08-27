@@ -40,14 +40,10 @@
 ---
 
 
-<div align="center">
 
 ## 📊 GitHub Analytics
 
-<img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" width="85%" />
-
-</div>
-
+![GitHub Metrics](https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg)
 ---
 
 ## 📈 Contribution Activity
