@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  # Schedule automatic updates every midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual triggers from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token stored in repository secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output path inside the repository
+          filename: github-metrics.svg
+
+          # Base configuration & modules
+          base: header, activity, community, repositories, metadata
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+
+          # Styling options
+          config_theme: dark
+          config_timezone: UTC
