@@ -40,25 +40,13 @@
 ---
 
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<!-- Animated Top Frame Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="10px" />
+## 📊 GitHub Analytics
 
-<br/><br/>
-
-<!-- Your Analytics Card -->
-<img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" width="100%" />
-
-<br/><br/>
-
-<!-- Animated Bottom Frame Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="10px" />
+<img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" width="85%" />
 
 </div>
-
 
 ---
 
