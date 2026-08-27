@@ -56,26 +56,10 @@
 
 
 
-<!-- 🤝 Connect With Me -->
-<h2 align="center">
-  <font color="#58A6FF">🤝</font> 
-  <font color="#58A6FF">Connect</font> 
-  <font color="#388BFD">With Me</font>
-</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eshal-naeem-raja-a743583a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_.eshaln._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="mailto:eshalnaeem2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=firefox&logoColor=black)](https://your-portfolio-link.com)
 
 <p align="center">
   <font color="#8B949E"><i>✨ Learning, building, and growing — one project at a time.</i></font>
