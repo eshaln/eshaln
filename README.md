@@ -49,7 +49,9 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Metrics" width="85%" />
+
+
+![GitHub Metrics](https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg)
 
 ---
 
