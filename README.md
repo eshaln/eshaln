@@ -50,24 +50,6 @@
 
 
 ## 📊 GitHub Analytics
-<div align="center">
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" width="60">
-      <img src="https://media.giphy.com/media/26gsiCIKW7ANEmxKE/giphy.gif" width="40" alt="Snake Left" />
-    </td>
-    <td align="center" valign="middle">
-      
-      <!-- Analytics Card -->
-      <img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" width="550" />
-
-    </td>
-    <td align="center" valign="middle" width="60">
-      <img src="https://media.giphy.com/media/26gsiCIKW7ANEmxKE/giphy.gif" width="40" alt="Snake Right" />
-    </td>
-  </tr>
-</table>
-</div>
 
 ![GitHub Metrics](https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg)
 ---
