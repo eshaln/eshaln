@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="12px" />
+</div>
+
+
+
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="Eshal Naeem Banner"/>
 </p>
@@ -79,3 +85,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
 </p>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="12px" />
+</div>
