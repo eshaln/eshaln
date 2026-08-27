@@ -41,23 +41,10 @@
 ---
 
 
- 📊 GitHub Stats 
-<h2 align="center">
-  <font color="#58A6FF">📊</font> 
-  <font color="#58A6FF">GitHub</font> 
-  <font color="#388BFD">Stats</font>
-</h2>
+## 📊 GitHub Analytics
 
-<table border="0" align="center">
-  <tr border="0">
-    <td border="0" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=eshaln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Eshal's GitHub Stats" height="165" />
-    </td>
-    <td border="0" align="center" valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eshaln&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Eshal's Top Languages" height="165" />
-    </td>
-  </tr>
-</table>
+![GitHub Metrics](https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg)
+
 
 ---
 
