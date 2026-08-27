@@ -1,0 +1,47 @@
+name: Metrics
+on:
+  # Automatically run every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to manually trigger the workflow from the Actions tab
+  workflow_dispatch:
+  # Runs whenever you push changes to the main branch
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your Personal Access Token stored in Repository Secrets
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output filename & target branch
+          filename: github-metrics.svg
+          committer_branch: main
+          committer_message: "action: update metrics"
+
+          # Core metrics display
+          base: header, activity, community, repositories, metadata
+
+          # Coding habits chart (peak hours & active days)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Most used programming languages breakdown
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+          # Display total lines of code modified
+          plugin_lines: yes
+
+          # Theme and styling configuration
+          config_theme: dark
+          config_timezone: UTC
