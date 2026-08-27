@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="12px" />
-</div>
+  <!-- Animated Top Border Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:7000ff&height=4&section=header" width="100%" />
+
+  <br />
 
 
 
@@ -87,6 +89,7 @@
 </p>
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="12px" />
+<!-- Animated Bottom Border Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=4&section=footer" width="100%" />
+
 </div>
