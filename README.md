@@ -44,16 +44,18 @@
 
 <div align="center">
 
-<div style="
-  display: inline-block;
-  padding: 8px;
-  background: linear-gradient(135deg, #00f0ff, #7000ff, #00f0ff);
-  background-size: 200% 200%;
-  border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0, 240, 255, 0.4);
-">
-  <img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" style="border-radius: 8px; display: block;" width="100%" />
-</div>
+<!-- Animated Top Frame Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="10px" />
+
+<br/><br/>
+
+<!-- Your Analytics Card -->
+<img src="https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg" alt="GitHub Analytics" width="100%" />
+
+<br/><br/>
+
+<!-- Animated Bottom Frame Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db034b00-a425-11eb-851e-b83870301980.gif" width="100%" height="10px" />
 
 </div>
 
