@@ -84,7 +84,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
 </p>
-
 <!-- Animated Bottom Border Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=4&section=footer" width="100%" />
 
