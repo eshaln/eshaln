@@ -13,12 +13,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Base layout settings
-          base: header, activity, community, repositories, metadata
+          # Only pull standard profile data
+          base: header, community, repositories, metadata
 
-          # Activity plugin (Replaces Habits)
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: push, issue, pr
-          plugin_activity_timestamps: yes
+          # Include languages but disable activity plugins
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_colors: github
+
+          # Safety overrides
+          config_timezone: UTC
