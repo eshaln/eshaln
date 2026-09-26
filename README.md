@@ -89,5 +89,4 @@
 
 <!-- Animated Bottom Border Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=4&section=footer" width="100%" />
-
 </div>
