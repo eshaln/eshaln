@@ -9,6 +9,7 @@
   </p>
 
   <p align="center">
+
     <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&height=45&lines=Aspiring+Game+Developer+%F0%9F%8E%AE;Aspiring+Web+Developer+%F0%9F%8C%90;Learning+C%2B%2B%2C+Java%2C+Python%2C+JS;Building+one+project+at+a+time+%E2%9C%A8" alt="Typing SVG"/>
   </p>
 
