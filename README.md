@@ -1,15 +1,93 @@
-<div align="center"> <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Eshal"/> <br/>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/eshal-naeem-raja-a743583a8"><img src="https://img.shields.io/badge/LinkedIn-24497c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://instagram.com/_.eshaln._"><img src="https://img.shields.io/badge/Instagram-7a2c3a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="mailto:eshalnaeem2008@gmail.com"><img src="https://img.shields.io/badge/Gmail-7a4a1a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=4a3a80&style=for-the-badge" alt="Profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:7000ff&height=4&section=header" width="100%" />
 
-<br/><br/>
+  <br />
 
-<img src="./assets/stats.svg" width="100%" alt="GitHub stats"/> <img src="./assets/heatmap.svg" width="100%" alt="Contributions per day, last 6 months"/> <img src="./assets/activity.svg" width="100%" alt="Contributions, last 30 days"/> <img src="./assets/terminal.svg" width="100%" alt="whoami"/> <br/> <img src="https://img.shields.io/badge/C++-24497c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-7a2c3a?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-1f5c3a?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-7a4a1a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/HTML5-7a2c3a?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-4a3a80?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Git-1d5a63?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/VS%20Code-24497c?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <p align="center">
+    <img src="./assets/banner.svg" width="100%" alt="Eshal Naeem Banner"/>
+  </p>
 
-<br/><br/>
+  <p align="center">
 
-<img src="https://raw.githubusercontent.com/eshaln/eshaln/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&height=45&lines=Aspiring+Game+Developer+%F0%9F%8E%AE;Aspiring+Web+Developer+%F0%9F%8C%90;Learning+C%2B%2B%2C+Java%2C+Python%2C+JS;Building+one+project+at+a+time+%E2%9C%A8" alt="Typing SVG"/>
+  </p>
 
-<sub>Learning, building and growing, one project at a time.</sub>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=eshaln&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/eshaln?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+  </p>
+</div>
 
+---
+
+## 🌱 About Me
+
+* 🎓 **Software Engineering Student**
+* 🎮 **Aspiring Game Developer**
+* 🌐 **Aspiring Web Developer**
+* 💻 Currently learning and building projects with **C++, Java, Python, HTML, CSS & JavaScript**
+* 🚀 Interested in software development, web development, and game development
+* 📫 Reach me at **[eshalnaeem2008@gmail.com](mailto:eshalnaeem2008@gmail.com)**
+
+---
+
+## 🛠️ Languages & Frameworks
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🧰 Tools & Environments
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+
+
+![GitHub Metrics](https://raw.githubusercontent.com/eshaln/eshaln/main/github-metrics.svg)
+
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eshaln/eshaln/output/pacman-contribution-graph-dark.svg" width="100%" alt="Eshal's Pac-Man Contribution Graph" />
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eshalnaeem2008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshal-naeem-raja-a743583a8)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.eshaln._)
+
+<br />
+
+<p align="center">
+  <font color="#8B949E"><i>✨ Learning, building, and growing — one project at a time.</i></font>
+</p>
+
+<p align="center">
+  <font color="#58A6FF"><sub>Thanks for stopping by — feel free to explore my repos ⭐</sub></font>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" width="100%" alt="Wave Bottom Divider"/>
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7000ff,100:00f0ff&height=4&section=footer" width="100%" />
 </div>
